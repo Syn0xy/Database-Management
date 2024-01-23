@@ -1,0 +1,4 @@
+driver=org.postgresql.Driver
+url=jdbc:postgresql://tp.iutinfo.fr/but2
+login=antoinepourthieetu
+password=moi
